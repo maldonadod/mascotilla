@@ -1,0 +1,14 @@
+{
+  "name": "mascotilla",
+  "version": "1.0.0",
+  "description": "mascotilla virtual",
+  "main": "main.js",
+  "repository": "git@github.com:maldonadod/mascotilla.git",
+  "author": "emaldonado",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
